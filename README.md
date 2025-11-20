@@ -65,4 +65,5 @@ Here are screenshots demonstrating the flow and functionality of the application
 
 ### 6. Managing Customer Orders with the Queue
 *(A screenshot showing a book being added to the order queue and then processed)*
+![Add Customer Order.png](Screenshots/Add%20Customer%20Order.png)
 ![Process Next Order.png](Screenshots/Process%20Next%20Order.png)
