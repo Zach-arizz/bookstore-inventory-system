@@ -52,7 +52,7 @@ public class Inventory {
         int n = inventoryList.size();
 
         if (n <= 1) {
-            System.out.println("Books sorted successfully!");
+            System.out.println("There are not enough books to sort.");
             return;
         }
 
@@ -66,6 +66,8 @@ public class Inventory {
                 }
             }
         }
+        System.out.println();
+        displayAllBooks();
         System.out.println("Books sorted successfully!");
     }
 
